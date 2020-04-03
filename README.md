@@ -9,7 +9,7 @@ Pour faire cela nous avons fait :
 
 # Notebook et Dataset
 Pour créer le modèle final du projet, j'ai utilisé la dataset **data.csv** et j'ai mis au point le notebook **LSTM.ipynb**.
-Pour gagner du temps lors de l'entrainement du modèle j'ai créer un fichier **cleanData.csv** qui est une copie de **data.csv** avec les données déja nettoyé.
+Pour gagner du temps lors de l'entrainement du modèle j'ai créer un fichier **cleanData.csv** qui est une copie de **data.csv** avec les données déjà nettoyées.
 
 ## Pour commencer
 
